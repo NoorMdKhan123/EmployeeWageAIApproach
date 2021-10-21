@@ -1,0 +1,13 @@
+C:\Users\md048\source\repos\EmploeeWageAIApproach\bin\Debug\netcoreapp3.1\EmploeeWageAIApproach.exe
+C:\Users\md048\source\repos\EmploeeWageAIApproach\bin\Debug\netcoreapp3.1\EmploeeWageAIApproach.deps.json
+C:\Users\md048\source\repos\EmploeeWageAIApproach\bin\Debug\netcoreapp3.1\EmploeeWageAIApproach.runtimeconfig.json
+C:\Users\md048\source\repos\EmploeeWageAIApproach\bin\Debug\netcoreapp3.1\EmploeeWageAIApproach.runtimeconfig.dev.json
+C:\Users\md048\source\repos\EmploeeWageAIApproach\bin\Debug\netcoreapp3.1\EmploeeWageAIApproach.dll
+C:\Users\md048\source\repos\EmploeeWageAIApproach\bin\Debug\netcoreapp3.1\EmploeeWageAIApproach.pdb
+C:\Users\md048\source\repos\EmploeeWageAIApproach\obj\Debug\netcoreapp3.1\EmploeeWageAIApproach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\EmploeeWageAIApproach\obj\Debug\netcoreapp3.1\EmploeeWageAIApproach.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\EmploeeWageAIApproach\obj\Debug\netcoreapp3.1\EmploeeWageAIApproach.AssemblyInfo.cs
+C:\Users\md048\source\repos\EmploeeWageAIApproach\obj\Debug\netcoreapp3.1\EmploeeWageAIApproach.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\EmploeeWageAIApproach\obj\Debug\netcoreapp3.1\EmploeeWageAIApproach.dll
+C:\Users\md048\source\repos\EmploeeWageAIApproach\obj\Debug\netcoreapp3.1\EmploeeWageAIApproach.pdb
+C:\Users\md048\source\repos\EmploeeWageAIApproach\obj\Debug\netcoreapp3.1\EmploeeWageAIApproach.genruntimeconfig.cache
