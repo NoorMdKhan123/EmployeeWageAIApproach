@@ -6,15 +6,16 @@ namespace EmployeeWageAIApproach
 {
     class EmpWage
     {
+        //constant
+        const int is_full_time = 1;
+        const int is_part_time = 2;
 
-        public static int EmpWageCalculation()
+        public static int EmpWageCalculation(string company, int emp_rate_per_hour,
+
+            int max_working_days, int max_working_hours)
         {
-            //constant
-            const int is_full_time = 1;
-            const int is_part_time = 2;
-            int emp_rate_per_hour = 20;
-            int max_working_days = 20;
-            int max_working_hours = 100;
+
+
             //variable
             int emp_wage = 0;
             int emp_hrs = 0;
@@ -49,9 +50,10 @@ namespace EmployeeWageAIApproach
                 emp_wage = emp_hrs * emp_rate_per_hour;
                 total_emp_wage += emp_wage;
                 total_emp_hrs += emp_hrs;
-                Console.WriteLine("Emp Wage for day " + total_woking_days + " is " + emp_wage);
+                Console.WriteLine("Emp Wage for Company : " + company + " is " + emp_wage);
             }
-            Console.WriteLine("Emp Wage for whole month is : " + total_emp_wage +
+            Console.WriteLine("Emp Wage for whole month  for  : " + company +
+                " is : " + total_emp_wage +
                 " total emp hrs " + total_emp_hrs);
             return total_emp_hrs;
         }
